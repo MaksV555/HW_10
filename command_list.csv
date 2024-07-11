@@ -1,0 +1,47 @@
+    1  git config --global user.name "Maks Vadan"
+    2  git config --global user.email maks.v555@gmail.com
+    3  git clone [https://github.com/MaksV555/HW_10.git]
+    4  git clone [https://github.com/MaksV555/HW_10.git]
+    5  git clone https://github.com/MaksV555/HW_10.git
+    6  git status
+    7  cd HW_10/
+    8  git status
+    9  touch text_ignore.txt
+   10  ls
+   11  nano .gitignore 
+   12  git status
+   13  git status
+   14  ls
+   15  git commit -m "New modified"
+   16  git log
+   17  touch main_test.txt
+   18  ls
+   19  git add
+   20  git add .gitignore 
+   21  git add text_ignore.txt
+   22  git commit
+   23  cd /c/Git
+   24  cd HW_10/
+   25  git status
+   26  git add main_test.txt 
+   27  git commit
+   28  cd /c/git
+   29  cd HW_10/
+   30  git status
+   31  git branch develop
+   32  git chekout develop
+   33  git checkout develop
+   34  touch develop_test.txt
+   35  git add develop_test.txt 
+   36  git commit -m "New modified"
+   37  none develop_test.txt 
+   38  none develop_test.txt 
+   39  nano develop_test.txt 
+   40  git status
+   41  git add develop_test.txt 
+   42  git commit -m "New modified"
+   43  git chekout main
+   44  git checkout main
+   45  git merge develop
+   46  git log
+   47  history > command_list.csv
